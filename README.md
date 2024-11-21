@@ -1,0 +1,1 @@
+![Allure Report](images/Screenshot.png)
